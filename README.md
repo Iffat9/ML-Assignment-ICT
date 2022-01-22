@@ -1,1 +1,1 @@
-# ML-Assignment-ICT
+# Small Machine Learning case studies
